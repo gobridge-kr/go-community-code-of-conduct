@@ -1,4 +1,4 @@
-> 본 문서는 [Go Community Code of Conduct](https://golang.org/conduct)의 한국어 번역본으로, 최종 번역 이후의 최신본과 내용이 상이할 수 있습니다.
+> 본 문서는 [Go Community Code of Conduct](https://golang.org/conduct)의 한국어 번역본으로, 번역 과정에서 잘못 옮겨진 부분이 있을 수 있으며, 최종 번역 이후의 최신본과 내용이 상이할 수 있습니다.
 
 # Go 커뮤니티 행동 강령
 
