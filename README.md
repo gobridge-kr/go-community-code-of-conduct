@@ -1,114 +1,114 @@
-# Go Community Code of Conduct
+# Go 커뮤니티 행동 강령
 
-* [About](#about)
-* [Gopher Values](#gopher-values)
-* [Code of Conduct](#code-of-conduct)
-  * [Our Pledge](#our-pledge)
-  * [Our Standards](#our-standards)
-  * [Our Responsibilities](#our-responsibilities)
-  * [Scope](#scope)
-  * [Conflict Resolution](#conflict-resolution)
-  * [Attribution](#attribution)
-* [Summary](#summary)
-
----
-### About
----
-
-Online communities include people from many different backgrounds. The Go contributors are committed to providing a friendly, safe and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
-
-The first goal of the Code of Conduct is to specify a baseline standard of behavior so that people with different social values and communication styles can talk about Go effectively, productively, and respectfully.
-
-The second goal is to provide a mechanism for resolving conflicts in the community when they arise.
-
-The third goal of the Code of Conduct is to make our community welcoming to people from different backgrounds. Diversity is critical to the project; for Go to be successful, it needs contributors and users from all backgrounds. (See [Go, Open Source, Community.](https://blog.golang.org/open-source))
-
-We believe that healthy debate and disagreement are essential to a healthy project and community. However, it is never ok to be disrespectful. We value diverse opinions, but we value respectful behavior more.
+* [개요](#개요)
+* [Gopher로서의 가치들](#gopher로서의-가치들)
+* [행동 강령](#행동-강령)
+  * [우리의 서약](#우리의-서약)
+  * [우리의 기준](#우리의-기준)
+  * [우리의 책임](#우리의-책임)
+  * [범위](#범위)
+  * [갈등 해결](#갈등-해결)
+  * [저작자표시](#저작자표시)
+* [요약](#요약)
 
 ---
-### Gopher Values
+### 개요
 ---
 
-These are the values to which people in the Go community (“Gophers”) should aspire.
+온라인 커뮤니티에는 다양한 배경을 가진 사람들이 공존합니다. Go 기여자들은 젠더 정체성과 그 표현, 성적 지향, 장애, 신경다양성, 신체적 외양, 체형, 민족성, 국적, 인종, 나이, 종교, 또는 다른 어떠한 개인적 특성과 무관하게, 친화적이고 안전하며 모두를 따뜻하게 반기는 환경을 제공하는 데 전념하고 있습니다.
 
-* Be friendly and welcoming
-* Be patient
-  * Remember that people have varying communication styles and that not everyone is using their native language. (Meaning and tone can be lost in translation.)
-* Be thoughtful
-  * Productive communication requires effort. Think about how your words will be interpreted.
-  * Remember that sometimes it is best to refrain entirely from commenting.
-* Be respectful
-  * In particular, respect differences of opinion.
-* Be charitable
-  * Interpret the arguments of others in good faith, do not seek to disagree.
-  * When we do disagree, try to understand why.
-* Avoid destructive behavior:
-  * Derailing: stay on topic; if you want to talk about something else, start a new conversation.
-  * Unconstructive criticism: don't merely decry the current state of affairs; offer—or at least solicit—suggestions as to how things may be improved.
-  * Snarking (pithy, unproductive, sniping comments)
-  * Discussing potentially offensive or sensitive issues; this all too often leads to unnecessary conflict.
-  * Microaggressions: brief and commonplace verbal, behavioral and environmental indignities that communicate hostile, derogatory or negative slights and insults to a person or group.
+이 행동 강령의 제일 목표는 사회적 가치나 소통 방식이 서로 다른 사람들이 Go에 대하여 효과적으로, 생산적으로, 서로 존중하며 대화할 수 있도록 행동양식의 기준선을 제시하는 것입니다.
 
-People are complicated. You should expect to be misunderstood and to misunderstand others; when this inevitably occurs, resist the urge to be defensive or assign blame. Try not to take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it. It is the responsibility of all parties to de-escalate conflict when it arises.
+두 번째 목표는 공동체에 갈등이 발생할 경우 갈등을 해결할 기제를 제공하는 것입니다.
+
+행동 강령의 세 번째 목표는 다양한 배경을 가진 사람들에게 우리의 공동체가 따뜻하게 느껴질 수 있도록 하는 것입니다. Go가 성공하기 위해서는 가능한 모든 배경을 가진 기여자와 사용자가 필요하기 때문에, 다양성은 아주 중요합니다. ([Go, Open Source, Community.](https://blog.golang.org/open-source)를 읽어보세요.)
+
+우리는 건강한 프로젝트 진행과 공동체를 위해서는 건강한 토론과 반박이 필요하다고 믿습니다. 하지만 상대를 무시하는 것은 어떤 경우에도 용납할 수 없습니다. 우리는 다양한 의견에 가치를 두지만, 서로 존중하는 태도가 더욱 중요합니다.
 
 ---
-### Code of Conduct
+### Gopher로서의 가치들
 ---
 
-#### Our Pledge
+Go 커뮤니티의 사람들("Gopher들")은 다음 가치를 추종해야 합니다.
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+* 사람들을 따뜻하게 맞이하고 친근하게 대할 것
+* 인내심을 가질 것
+  * 사람들이 소통하는 양식은 다양하며 모두가 모국어를 쓰는 것은 아니란 사실을 염두에 둘 것 (의미와 어조가 번역 과정에서 사라질 수 있습니다.)
+* 사려깊게 행동할 것
+  * 생산적인 소통에는 노력이 듭니다. 여러분이 내뱉는 말이 어떻게 받아들여질지 생각하세요.
+  * 가끔은 어떤 식으로든 논평하지 않는 것이 최선일 수도 있습니다.
+* 존중할 것
+  * 의견에 차이가 있을 수 있다는 것을 특히 명심하세요.
+* 너그럽게 행동할 것
+  * 다른 사람들의 주장을 반대하려고 들기보다, 좋은 의도로 먼저 해석하세요.
+  * 동의하지 않을 때에는 상대 주장의 이유를 이해해 봅시다.
+* 파괴적인 언행을 피할 것:
+  * 탈선: 주제를 벗어나지 마세요. 다른 주제에 대해 이야기하고 싶다면, 새로운 대화를 시작합시다.
+  * 생산적이지 않은 비판: 현 상태를 단순히 호도하지는 맙시다. 개선안을 제안하거나, 최소한 요청할 수 있도록 하세요.
+  * 신랄한 표현 (비아냥대거나, 비생산적이거나, 누군가를 저격하는 발언)
+  * 불쾌하거나 민감할 수 있는 사안에 대한 논의. 불필요한 갈등으로 이어지는 경우가 많습니다.
+  * 은근한 차별: 특정인 또는 특정 집단에 대하여 경멸하거나, 적대적이거나, 부정적인 방식으로 모욕을 보이는 식으로, 지나가듯 내뱉는 언행이나 환경적인 처사
 
-#### Our Standards
-
-Examples of behavior that contributes to creating a positive environment include:
-
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
-Examples of unacceptable behavior by participants include:
-
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
-
-#### Our Responsibilities
-
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
-
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
-
-#### Scope
-
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
-
-This Code of Conduct also applies outside the project spaces when the Project Steward has a reasonable belief that an individual’s behavior may have a negative impact on the project or its community.
-
-#### Conflict Resolution
-
-We do not believe that all conflict is bad; healthy debate and disagreement often yield positive results. However, it is never okay to be disrespectful or to engage in behavior that violates the project’s code of conduct.
-
-If you see someone violating the code of conduct, you are encouraged to address the behavior directly with those involved. Many issues can be resolved quickly and easily, and this gives people more control over the outcome of their dispute. If you are unable to resolve the matter for any reason, or if the behavior is threatening or harassing, report it. We are dedicated to providing an environment where participants feel welcome and safe.
-
-Reports should be directed to Cassandra Salisbury, the Go Project Steward, at conduct@golang.org. It is the Project Steward’s duty to receive and address reported violations of the code of conduct. They will then work with a committee consisting of representatives from the Open Source Programs Office and the Google Open Source Strategy team. If for any reason you are uncomfortable reaching out the Project Steward, please email the Google Open Source Programs Office at opensource@google.com.
-
-We will investigate every complaint, but you may not receive a direct response. We will use our discretion in determining when and how to follow up on reported incidents, which may range from not taking action to permanent expulsion from the project and project-sponsored spaces. We will notify the accused of the report and provide them an opportunity to discuss it before any action is taken. The identity of the reporter will be omitted from the details of the report supplied to the accused. In potentially harmful situations, such as ongoing harassment or threats to anyone’s safety, we may take action without notice.
-
-#### Attribution
-
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
+인간은 복잡합니다. 여러분은 스스로가 타인을 오해하거나 타인에게 오해받을 것이라고 여겨야 합니다. 이런 상황이 불가피하게 발생한다면, 수비적으로 나서거나 타인을 탓하려는 욕구에 저항해야 합니다. 공격의 의도가 없었는데도 공격으로 받아들이지 않도록 합시다. 사람들에게 의문의 기회를 줍시다. 의도가 뻔히 보이더라도, 상대의 도발을 받아주지는 마세요. 갈등이 발생할 경우 진정시키는 것이 모든 일원의 책임입니다.
 
 ---
-### Summary
+### 행동 강령
 ---
 
-* Treat everyone with respect and kindness.
-* Be thoughtful in how you communicate.
-* Don’t be destructive or inflammatory.
-* If you encounter an issue, please mail conduct@golang.org.
+#### 우리의 서약
+
+모두에게 열려 있는 환경을 조성하기 위하여, 기여자 그리고 관리자로서 우리는 나이, 또는 체형, 장애, 민족성, 젠더 정체성과 그 표현, 경력 수준, 학력, 사회경제적 지위, 국적, 외모, 인종, 종교, 성적인 정체성과 지향과 무관하게, 모든 사람이 핍박받지 않고 우리의 공동체와 활동에 참여할 수 있도록 할 것을 서약합니다.
+
+#### 우리의 기준
+
+긍정적인 환경에 기여하기 위해서는 다음과 같이 행동합니다.
+
+* 상대를 반기고 배제하지 않는 언어의 사용
+* 서로 다른 관점과 경험에 대해 존중하는 태도
+* 건설적인 비판의 정중한 수용
+* 공동체의 최선에 대한 집중
+* 다른 일원에 대한 공감의 표시
+
+각 참여자는 다음 행위를 하지 않아야 합니다.
+
+* 성적인 언어 또는 이미지의 사용과 동의 없는 성적인 흥미 또는 접근
+* 고의적인 방해, 모욕적이거나 경멸적인 지적, 사적이거나 정치적인 공격
+* 공적이거나 사적인 괴롭힘
+* 명시적인 동의 없이 주소나 연락처 등 타인의 개인정보를 공개하는 것
+* 업무 상으로 부적절하게 여겨질 수 있을 법한 기타 행위
+
+#### 우리의 책임
+
+각 프로젝트의 관리자는 용인할 수 있는 행동의 기준을 명확히 할 책임이 있으며 용납할 수 없는 행동이 발생했을 경우 적절하고 공정한 수정 조치를 취할 의무가 있습니다.
+
+각 프로젝트의 관리자는 본 행동 강령에 부합하지 않는 논평, 커밋, 코드, 위키 편집, 이슈 등 기여에 대하여 삭제, 편집, 반려하거나 기타 부적절하거나, 위협적이거나, 공격적이거나, 유해한 행동에 대하여 해당 기여자를 일시적 또는 영구히 추방할 권리가 있습니다.
+
+#### 범위
+
+본 행동 강령은 개인이 프로젝트 또는 커뮤니티를 대변한다고 여겨지는 한 프로젝트 내부의 또는 공적인 경우에 대하여 적용됩니다. 프로젝트 또는 커뮤니티를 대변하는 경우는 프로젝트의 공식 이메일 주소를 사용하는 경우, 공식 SNS 계정을 사용하는 경우, 온라인 또는 오프라인 대표자로 지정되어 활동하는 경우를 포함합니다. 프로젝트 관리자가 이에 더하여 대변인이 무엇인지 정의하고 명시할 수 있습니다.
+
+본 행동 강령은 개인의 행동이 프로젝트 또는 커뮤니티에 부정적인 영향을 남긴다고 프로젝트 관리자가 판단하는 한 프로젝트 외부의 경우에 대하여 적용됩니다.
+
+#### 갈등 해결
+
+우리는 모든 갈등이 나쁘다고 생각하지는 않습니다. 건강한 토론과 반박은 보통 긍정적인 결과를 낳습니다. 하지만 행동 강령을 위반하는 행동을 저지르거나 상대를 무시하는 것은 절대 용납할 수 없습니다.
+
+누군가 행동 강령을 위반하는 것을 목격했다면, 해당하는 사람들에게 직접적으로 언급할 것이 권장됩니다. 이로써 많은 문제가 빠르고 쉽게 해결될 수 있습니다. 또한 이로써 해당 논란의 결과를 더욱 통제하기 쉬워집니다. 어떠한 이유로 문제를 직접 해결하기 어렵고 해당 행동이 위협적이거나 불쾌했다면 즉각 보고하십시오. 우리는 모든 참여자가 환영받고 안전하다고 느끼는 환경을 제공하는 데 전념하고 있습니다.
+
+conduct@golang.org를 통해 Go 프로젝트 관리자인 Cassandra Salisbury에게 보고하십시오. 행동 강령 위반에 대한 보고를 수신하고 해결하는 것이 프로젝트 관리자의 업무입니다. 관리자는 Open Source Programs Office와 Google Open Source Strategy의 대표자로 이루어진 위원회와 협업할 것입니다. 어떠한 이유로 프로젝트 관리자에게 연락하는 것이 어려운 상황이라면, opensource@google.com을 통해 Google Open Source Programs Office에 연락하십시오.
+
+우리는 모든 불편 사항을 조사할 것이지만, 곧바로 답장을 받지는 못하실 수 있습니다. 우리는 보고된 사건에 대하여 언제 그리고 어떻게 착수해야 하는지 숙고할 것입니다. 이는 한 쪽으로는 무대응일 수도 있고, 다른 쪽으로는 해당 프로젝트와 그 프로젝트가 후원하는 모든 활동에서의 제명일 수도 있습니다. 우리는 조치 대상에게 보고의 내용을 통보하고 실제 조치 전에 보고 내용에 대하여 논의할 기회를 줄 것입니다. 신고자의 신상은 대상에게 전달될 때 전해지지 않습니다. 지속적인 괴롭힘 또는 안전에 대한 위협과 같이 유해하다고 판단되는 경우에는 통보 없이 조치가 취해질 수 있습니다.
+
+#### 저작자표시
+
+본 행동 강령은 <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>에서 볼 수 있는 Contributor Covenant 1.4 버전으로부터 파생하였습니다.
+
+---
+### 요약
+---
+
+* 모두를 존중하며 친절하게 대하세요.
+* 여러분이 소통하는 방법에 대해 주의하세요.
+* 파괴적 또는 공격적으로 행동하지 맙시다.
+* 문제가 생긴다면, conduct@golang.org에 연락해 주세요.
 
